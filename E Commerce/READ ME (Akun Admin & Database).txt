@@ -1,0 +1,10 @@
+Nama file Database : databasedua
+pass : postgre
+username : postgres
+
+environment : venvsatu
+
+admin username : intan
+email : inpusri30@gmail.com
+pass : signin123
+
